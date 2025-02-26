@@ -1,37 +1,20 @@
-# Hello ya'all
+# Hi, I'm Tomás Guzmán
 
-Mi nombre es Tomás Guzmán. Soy un entusiasta de la computación y la música. Hago páginas web en React, Express y Node.js con bases SQL y NoSQL.
+**Full-Stack Web Engineer**
 
-Actualmente estudio ingeniería informática en la UCAB, Venezuela.
+I am a full-stack engineer with over 4 years of experience in the JavaScript/TypeScript ecosystem. I specialize in designing and developing scalable, high-performance web applications using modern frameworks and clean architectural practices. My career spans projects across the USA, Chile, Venezuela, and Argentina, where I've led initiatives that blend innovative front-end solutions with robust back-end systems.
 
-## Tecnologías
+## Professional Highlights
+- **Innovative Solutions:** Delivered complex projects using React, Next.js, Nest.js, Node.js, and Flutter, ensuring efficient code and intuitive user experiences.
+- **Leadership & Collaboration:** Successfully led full-stack teams and managed projects using agile methodologies and tools like Azure DevOps.
+- **Technical Expertise:** Developed custom React hooks and implemented Domain-Driven Design (DDD) applications to solve challenging business problems.
+- **Diverse Experience:** Contributed to startups and established companies, consistently enhancing system performance and maintainability.
 
-- Manejo **React** como una de mis tecnologías favoritas. Utilizo **Redux** para el manejo de estado y comunicación con el backend
-- También utilicé **Context API**, una implementación propia de React para manejo de estado
-- Además de React, domino **Express.js** como tecnología de backend. Esto utilizando **MySQL** o bien **MongoDB**
+## Technologies & Tools
+- **Front-end:** React (with Redux & Relay), Next.js, Flutter
+- **Back-end:** Node.js, Nest.js, Express.js
+- **Languages:** TypeScript, JavaScript, Python, Java, HTML, CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Oracle
+- **DevOps & Tools:** Docker, Kubernetes, AWS, Azure DevOps, GitHub
 
-### Más tecnologías
-
-- **Ruby** y **Python** como lenguajes de scripting. He creado un mini framework para Javascript utilizando Ruby.
-- Linux durante años. Hice scripting de bash, automaticé procesos e hice archivos .desktop para mis instalaciones personalizadas. Cambié a Windows por Office principalmente. Conozco detalles a nivel intermedio de Linux, especialmente Ubuntu.
-- Windows, durante años también
-
-## Lenguajes de programación
-
-- JavaScript
-- JSX, HTML, CSS
-- SQL
-- Ruby
-- Python
-- Bash
-- AutoHotKey
-- Lua
-
-## Actualmente
-
-- Aprendiendo Laravel
-
-## Planifico
-
-- Vue.js
-- Angular
+I'm committed to continuous learning and innovation, striving to create efficient and elegant solutions that drive digital transformation.
